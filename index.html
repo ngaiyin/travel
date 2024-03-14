@@ -192,7 +192,7 @@
       locationSection.innerHTML = `
         <h3>${locationData.poi}</h3>
         <p>${content}</p>
-        <span class="date">${locationData.create_time}</span>
+        <span class="date">${new Date(locationData.create_time).toDateString()}</span>
 
         <div class="grid">
           ${locationData.medias.map(media => `
