@@ -70,6 +70,11 @@
 
   </div> <!-- end container -->
 
+  <div class="overlay" id="overlay">
+    <span class="close" id="close">&times;</span>
+    <img src="" alt="Full Size Image" id="fullImage">
+  </div>
+
   <!-- JS -->
   <script src="js/vendor/jquery.js"></script>
   <script>
@@ -105,6 +110,13 @@
           locations[getLocationId(locationData.create_time)] = locationData;
           markLocationOnMap(getLocationId(locationData.create_time));
         });
+
+        const overlay = document.getElementById('overlay');
+        overlay.addEventListener('click', function (event) {
+          if (event.target === this || event.target === close) {
+            overlay.style.display = 'none';
+          }
+        });
       } catch (error) {
         console.error('Error fetching or parsing data:', error);
       }
@@ -120,12 +132,19 @@
 
       // Function to lazy-load images
       function lazyLoadImages() {
+        const fullImage = document.getElementById('fullImage');
+        const close = document.getElementById('close');
         const imageWrappers = locationSection.querySelectorAll('.image-wrapper');
         imageWrappers.forEach(imageWrapper => {
           const imageUrl = imageWrapper.getAttribute('data-src');
           if (imageUrl) {
             imageWrapper.style.backgroundImage = `url(${imageUrl})`;
             imageWrapper.removeAttribute('data-src');
+
+            imageWrapper.addEventListener('click', function () {
+              fullImage.setAttribute('src', imageUrl);
+              overlay.style.display = 'block';
+            });
           }
         });
       }
