@@ -155,6 +155,18 @@
       } catch (error) {
         console.error('Error fetching or parsing data:', error);
       }
+
+      // Check if there's a hash in the URL
+      if(window.location.hash) {
+        // Remove leading special characters (e.g., '#') from the hash
+        var hash = window.location.hash.substring(1); // Remove the first character which is the special character
+        // Get the target element using the hash
+        var targetElement = document.getElementById(hash);
+        if(targetElement) {
+          // Scroll to the target element
+          targetElement.scrollIntoView();
+        }
+      }
     }
 
     // Function to dynamically render a location
@@ -254,6 +266,11 @@
       elem.addClass('active');
       flyToLocation(theId);
       activeChapterName = theId;
+      if (theId == 'intro') {
+        window.location.hash = '';
+      } else {
+        history.replaceState(null, null, '#' + theId);
+      }
     };
 
     // Function to lazy-load location, mark it on map and fly to it

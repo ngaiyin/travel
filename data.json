@@ -2686,9 +2686,6 @@
                 "content": "images/2021-12-24/202112240059116.jpg"
             },
             {
-                "content": "images/2021-12-24/202112240059117.jpg"
-            },
-            {
                 "content": "images/2021-12-24/202112240059118.jpg"
             }
         ],
@@ -3343,7 +3340,7 @@
     {
         "create_time": "2021-06-10 16:56:31",
         "poi": "Zhangjiajie City · Tianmen Mountain National Forest Park - Tianmen Cave",
-        "content": "[Tear]",
+        "content": "😭",
         "medias": [
             {
                 "content": "images/2021-06-10/202106101656310.jpg"
@@ -3530,8 +3527,8 @@
             }
         ],
         "lngLat": [
-            135.774,
-            35.009926
+            102.4410551,
+            24.91448
         ]
     },
     {
@@ -4219,7 +4216,7 @@
     {
         "create_time": "2019-12-23 18:55:59",
         "poi": "Albertville · Courchevel",
-        "content": "Understood why it's the largest ski resort in the world [Hey]\nThe scenery isn't the best but the snow conditions and facilities are excellent\nSnow all day, it's powdery ❄️",
+        "content": "Understood why it's the largest ski resort in the world 😎\nThe scenery isn't the best but the snow conditions and facilities are excellent\nSnow all day, it's powdery ❄️",
         "medias": [
             {
                 "content": "images/2019-12-23/201912231855590.jpg"
@@ -7228,8 +7225,8 @@
             }
         ],
         "lngLat": [
-            -122.3094096,
-            36.8789634
+            -122.0606911,
+            37.0522517
         ]
     },
     {
@@ -7812,7 +7809,7 @@
     {
         "create_time": "2018-04-15 08:44:16",
         "poi": "Key West, Florida",
-        "content": "Spent a day happily alone, drove to the southernmost point of the mainland United States. Florida's Highway 1 is truly renowned, with a sea view on both sides 🌊🏝 worth experiencing [Strong] Tonight I'm staying on a boat in the middle of the sea, unlocking a new experience in life. Accompanied by stars, moonlight, and sea breeze 😁",
+        "content": "Spent a day happily alone, drove to the southernmost point of the mainland United States. Florida's Highway 1 is truly renowned, with a sea view on both sides 🌊🏝 worth experiencing 💪🏼 Tonight I'm staying on a boat in the middle of the sea, unlocking a new experience in life. Accompanied by stars, moonlight, and sea breeze 😁",
         "medias": [
             {
                 "content": "images/2018-04-15/201804150844160.jpg"
@@ -8371,7 +8368,7 @@
     {
         "create_time": "2018-02-12 06:53:07",
         "poi": "South Lake Tahoe · Emerald Bay State Park",
-        "content": "Viewing Emerald Bay from multiple angles [Hey] If only I hadn't forgotten my sunglasses for hiking 🕶️",
+        "content": "Viewing Emerald Bay from multiple angles 🤩 If only I hadn't forgotten my sunglasses for hiking 🕶️",
         "medias": [
             {
                 "content": "images/2018-02-12/201802120653070.jpg"
@@ -9435,7 +9432,7 @@
     {
         "create_time": "2017-09-23 02:44:44",
         "poi": "Ürümqi, Xinjiang, China",
-        "content": "Urumqi, the capital city, doesn't even have 3G, let alone LTE [Tears], feels like going back ten years in an instant... \nWho wants souvenirs like Uyghur hats? 😆",
+        "content": "Urumqi, the capital city, doesn't even have 3G, let alone LTE 😭, feels like going back ten years in an instant... \nWho wants souvenirs like Uyghur hats? 😆",
         "medias": [
             {
                 "content": "images/2017-09-23/201709230244440.jpg"
@@ -9541,15 +9538,6 @@
             },
             {
                 "content": "images/2017-09-05/201709051441245.jpg"
-            },
-            {
-                "content": "images/2017-09-05/201709051441246.jpg"
-            },
-            {
-                "content": "images/2017-09-05/201709051441247.jpg"
-            },
-            {
-                "content": "images/2017-09-05/201709051441248.jpg"
             }
         ],
         "lngLat": [
@@ -10059,8 +10047,8 @@
             }
         ],
         "lngLat": [
-            -122.6579247,
-            37.6522444
+            -122.4213378,
+            37.6661661
         ]
     },
     {
@@ -10542,7 +10530,7 @@
     {
         "create_time": "2016-10-30 08:08:49",
         "poi": "Deqen Tibetan Autonomous Prefecture · Meili Snow Mountain Scenic Area",
-        "content": "Hands are almost frozen into popsicles 🥶\nBut the golden summit is really spectacular [Strong]\nNeed to improve photography skills 😆",
+        "content": "Hands are almost frozen into popsicles 🥶\nBut the golden summit is really spectacular 💪🏼\nNeed to improve photography skills 😆",
         "medias": [
             {
                 "content": "images/2016-10-30/201610300808490.jpg"
@@ -10726,7 +10714,7 @@
     {
         "create_time": "2016-02-21 07:41:38",
         "poi": "Tahoe City · Squaw Valley Ski Resort",
-        "content": "You have to try everything to know whether you like it or not... I already have a premonition that I won't like snowboarding, but still decided to give it a try... \nIndeed, didn't like it [Staring]. Will switch back to skiing tomorrow 💪🏼",
+        "content": "You have to try everything to know whether you like it or not... I already have a premonition that I won't like snowboarding, but still decided to give it a try... \nIndeed, didn't like it 🤪. Will switch back to skiing tomorrow 💪🏼",
         "medias": [
             {
                 "content": "images/2016-02-21/201602210741380.jpg"
@@ -10755,7 +10743,7 @@
     {
         "create_time": "2016-01-15 10:24:09",
         "poi": "Culebra, Puerto Rico · Culebra Island",
-        "content": "Just bought the GoPro a few days ago and it got swallowed by the waves 🌊, didn't even have time to export photos and videos [Sad]\nBut the island is so beautiful, how can a good mood be ruined by this? Lost the videos but consider it as a good travel experience...",
+        "content": "Just bought the GoPro a few days ago and it got swallowed by the waves 🌊, didn't even have time to export photos and videos 🙃\nBut the island is so beautiful, how can a good mood be ruined by this? Lost the videos but consider it as a good travel experience...",
         "medias": [
             {
                 "content": "images/2016-01-15/201601151024090.jpg"
@@ -10863,7 +10851,7 @@
     {
         "create_time": "2015-10-24 14:49:49",
         "poi": "Grace Bible Church of Pleasant Hill",
-        "content": "Carved pumpkins together [Mischievous] and then lit them up handsomely on fire 🔥. It's a pity that both of us aren't very skilled, this is the ugliest pumpkin I've ever seen 🎃 😂",
+        "content": "Carved pumpkins together 😬 and then lit them up handsomely on fire 🔥. It's a pity that both of us aren't very skilled, this is the ugliest pumpkin I've ever seen 🎃 😂",
         "medias": [
             {
                 "content": "images/2015-10-24/201510241449490.jpg"
@@ -11272,7 +11260,7 @@
     {
         "create_time": "2014-09-07 03:33:32",
         "poi": "California Memorial Stadium, Berkeley",
-        "content": "First time going to watch a football game and unexpectedly wore the opponent's green clothes. I felt embarrassed to sit with them and shout 'Go Bears' without wearing Cal's clothes [Shy] This atmosphere is really enjoyable! By the way, Sacramento State's cheerleaders are better than Berkeley's 😆",
+        "content": "First time going to watch a football game and unexpectedly wore the opponent's green clothes. I felt embarrassed to sit with them and shout 'Go Bears' without wearing Cal's clothes 😌 This atmosphere is really enjoyable! By the way, Sacramento State's cheerleaders are better than Berkeley's 😆",
         "medias": [
             {
                 "content": "images/2014-09-07/201409070333320.jpg"
@@ -11842,7 +11830,7 @@
     {
         "create_time": "2013-10-22 02:14:06",
         "poi": "Walnut Creek, California",
-        "content": "I saw turkeys walking as soon as I went out today [laughing]",
+        "content": "I saw turkeys walking as soon as I went out today 😄",
         "medias": [
             {
                 "content": "images/2013-10-22/201310220214060.jpg"
